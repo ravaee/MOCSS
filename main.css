@@ -1,0 +1,148 @@
+
+/* txt elements */
+
+.txt{
+    margin: 10px;
+    padding: 3px;
+    border-radius: 4px;
+    border: 1px gray solid;
+    background-color: white;
+}
+
+.txt_small{
+    width: 100px;
+}
+
+.txt_medium{
+    width: 180px;
+}
+
+.txt_long{
+    width: 240px;
+}
+
+/* btn elements */
+
+.btn{
+    margin: 10px;
+    padding: 2px;
+    background-color: lightgray;
+    color: dimgray;
+}
+
+.btn_small{
+    width: 50px;
+}
+
+.btn_medium{
+    width: 90px;
+}
+
+.btn_long{
+    width: 120px;
+}
+
+
+/* form elements */
+
+.form{
+    width: 300px;
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 4px;
+    border: 1.5px lightgray solid;
+}
+
+.form_header{
+    background-color: lightgray;
+    margin-top: 0px;
+    clip: unset;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.form_header_text{
+    margin: 0px;
+    color: dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+
+/* universal elements */
+
+.center_in_parent{
+    margin: 0 auto; 
+    
+}
+
+.center_content{
+    text-align: center;
+
+}
+
+
+h1{
+    color: dimgray;
+    margin-left: 10px;
+}
+
+h4{
+    color: dimgray;
+    margin-left: 10px;
+}
+
+p{
+    margin-left: 10px;
+    color: gray;
+}
+
+.map_bar{
+    background-color: whitesmoke;
+    margin-top: 0px;
+}
+
+.map_bar_text{
+    margin-left: 10px;
+    color: dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 7px;
+}
+
+.error{
+    background-color: rgb(223, 194, 198);
+}
+
+.success{
+    background-color: rgb(190, 219, 190);
+}
+
+thead{
+    background-color: lightgray;
+    clip: unset;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+thead td{
+    margin: 0px;
+    color: dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+tbody{
+    background-color: whitesmoke;
+}
+
+table{
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 4px;
+    border: 1.5px lightgray solid;
+    padding: 0px;
+}
