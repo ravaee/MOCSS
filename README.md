@@ -1,3 +1,3 @@
 # MOCSS
 
-# make it bigger and simpler :D
+make it bigger and simpler :D
